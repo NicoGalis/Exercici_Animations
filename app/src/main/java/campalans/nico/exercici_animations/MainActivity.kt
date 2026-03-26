@@ -137,6 +137,6 @@ fun TranslationAnimation() {
         modifier = Modifier
             .offset(x = offsetX)
             .size(80.dp)
-            .background(Color.Blue)
+            .background(Color.Green)
     )
 }
